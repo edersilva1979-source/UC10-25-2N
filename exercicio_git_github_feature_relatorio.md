@@ -109,7 +109,7 @@ git branch feature/relatorio
 Depois, acesse a nova branch:
 
 ```bash
-git switch feature/relatorio
+git checkout feature/relatorio
 ```
 
 Confira:
