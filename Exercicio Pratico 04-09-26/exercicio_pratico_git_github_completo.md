@@ -177,7 +177,7 @@ git remote add origin URL_DO_REPOSITORIO
 Confira a conexão:
 
 ```bash
-git remote v
+git remote -v
 ```
 
 Envie a branch main:
