@@ -4,7 +4,6 @@
 
 ### Carga horária
 
-4 horas
 
 ### Tema da aula
 
@@ -254,41 +253,7 @@ Para acompanhar esta aula, você deverá conhecer:
 
 8. Equipes de três a cinco alunos.
 
-## 6. Organização das quatro horas
 
-### Primeiro momento: 30 minutos
-
-Revisão do fluxo colaborativo e apresentação do GitHub Issues.
-
-### Segundo momento: 35 minutos
-
-Criação de Issues, listas de tarefas, responsáveis e labels.
-
-### Terceiro momento: 30 minutos
-
-Criação de milestones e planejamento de uma versão.
-
-### Quarto momento: 35 minutos
-
-Criação e configuração de um GitHub Project.
-
-### Intervalo: 15 minutos
-
-### Quinto momento: 35 minutos
-
-Relacionamento entre Issue, branch, commit e Pull Request.
-
-### Sexto momento: 30 minutos
-
-Criação de templates e arquivos de contribuição.
-
-### Sétimo momento: 25 minutos
-
-Atividade colaborativa de planejamento e triagem.
-
-### Oitavo momento: 20 minutos
-
-Exercícios, desafios, avaliação e encerramento.
 
 # Parte 1: Por que organizar o trabalho?
 
